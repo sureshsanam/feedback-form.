@@ -1,0 +1,44 @@
+body{
+    background-image:url(./fed.avif);
+    
+    
+
+}
+#one{
+    text-align: center;
+    
+    font-size: 36;
+    
+    
+   
+}
+.fir{
+    
+    font-size: larger;
+    margin-left: 300px;
+}
+.sec{
+    font-size: larger;
+    margin-left: 300px;
+}
+#mail{
+    font-size: larger;
+    margin-left: 300px;
+    font-size: 25;
+}
+#gender{
+    font-size: larger;
+    margin-left: 300px;
+    font-size: 25;
+}
+#friend{
+    font-size: larger;
+    margin-left: 300px;
+    font-size: 25;
+}
+.com{
+    font-size: larger;
+    margin-left: 300px;
+    font-size: 25;
+}
+
